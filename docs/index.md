@@ -1,40 +1,34 @@
-## Sample
+# Credit  Card default Predicition
 
-One more, finally. Or not? :)
+## Gradio Embeded
 
-Now:
+<iframe
+ src="https://pk1308-creditcard.hf.space"
+ frameborder="0"
+ width="1000"
+ height="1800"
+></iframe>
 
-```
-$ some 
-```
+## Status
 
-Look what she said:
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/pk1308/creditcard/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-> This is it!
+## DVC Studio Link
 
-### Subtitle
+[![DVC studio](https://raw.githubusercontent.com/iterative/static/main/img/studio-transparent-github-readme.png)](https://studio.iterative.ai/user/pk1308/projects/creditcard-vq6dx8ewhy)
 
-And now this:
+## About
 
-- One
-- Two
-- Three
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
 
+## Project layout
 
-#### As well
-
-#### As this
-
-### Another
-
-[a link](https://aws.com)
-
-More?
-
-
-Can we now have `the build`?
-
-NOW!
-
-
-Not gonna work, is it?
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
