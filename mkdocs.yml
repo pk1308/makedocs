@@ -5,9 +5,6 @@ nav:
 theme:
   name: material
 
-pages:
-  - Home: index.md
-  - Other Page: other.md
 
 markdown_extensions:
   - pymdownx.highlight
